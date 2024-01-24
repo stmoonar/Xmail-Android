@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Xmail</string>
+    <string name="action_settings">设置</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">首页</string>
+    <string name="second_fragment_label">第二页</string>
+    <string name="next">下一页</string>
+    <string name="previous">前一页</string>
+
+    <string name="lorem_ipsum">
+        欢迎来到XMail!
+    </string>
+
+<!--    邮件服务器api url-->
+    <string name="api">http://www.xianyan.software:8080</string>
+
+<!--    邮件服务器域名，如@qq.com、@gmail.com，这里是我们自己的@xianyan.software-->
+    <string name="domain">@xianyan.software</string>
+
+<!--    SMTP服务器域名-->
+    <string name="smtp_host">smtp.xianyan.software</string>
+</resources>
